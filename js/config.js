@@ -33,7 +33,7 @@ window.SITE = {
   },
 
   socials: [   // icon = your svg/png path; if missing, the name is shown instead
-    { name: "X", url: "https://x.com/talented_user", icon: "assets/icons/x.svg" },
+    { name: "X", url: "https://x.com/talented_user", icon: "assets/icons/xitter.svg" },
     { name: "YouTube", url: "https://www.youtube.com/atalentedyoutubeuser", icon: "assets/icons/youtube.svg" },
   ],
 
