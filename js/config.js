@@ -52,13 +52,13 @@ window.SITE = {
       icon: "assets/wanted/pin2.jpg", photo: "assets/wanted/ant.jpg",
       info: { Age: "19 Years", Status: "AT LARGE", "Last seen": "Florida"},
       charges: ["Production of illecit furry porn", "Furfaggotry Class 3", "Goonerism class 3", "Larping as anti-furry"],
-      bio: "Ant is a larpy christian latinx furry (((ARTIST))) who makes boring videos on the 'tube that is not funny, not entertaining, where he shares way too much embarasing shit about himself and talks about shit nobody cares about, he was an anti furry but got pantied and sissified by furry porn and now serves the dog cock. The art he produces is 80% softcore porn about his furry OC lucy who he litterally admits is based on a pornographic image he gooned to when he was a caca addicted to porn (he still is btw)" 
+      bio: "Ant is a larpy christian latinx furry (((ARTIST))) who makes boring videos on the 'tube that is not funny, not entertaining, where he shares way too much embarasing shit about himself and talks about shit nobody cares about, he was an anti furry but got pantied and sissified by furry porn and now serves the dog cock. The art he produces is 80% softcore porn about his furry OC lucy who he litterally admits is based on a pornographic image he gooned to when he was a caca addicted to porn (he still is btw)." 
     },
     { name: "CEO of trolling", alias: "@The_TrollVision/CEO of trolling", lat: 52, lon: 20, opsec: 88,
       icon: "assets/wanted/pin3.jpg", photo: "assets/wanted/trollvision.jpg",
       info: { Age: "Unc", Status: "AT LARGE", "Last seen": "Buying a femboy outfit under a bridge in the town of szcyzjkjchzywojewksc"},
       charges: ["Femboyism class 2", "ESL penalty", "gay fail larp"],
-      bio: "Polish anti-furry who got raped and sissified by an unknown assilant who used a sort of hydraulic machine, is now addicted to crack, is depressed, and lives under a bridge, also uses mulvad VPN behind 17 proxies or something to avoid getting 'oxed because hes a paranoid freak" 
+      bio: "Polish anti-furry who got raped and sissified by an unknown assilant who used a sort of hydraulic machine, is now addicted to crack, is depressed, and lives under a bridge, also uses mulvad VPN behind 17 proxies or something to avoid getting 'oxed because hes a paranoid freak." 
     },
     { name: "Bushnell", alias: "@killerbushnell", lat: 30, lon: 70, opsec: 70,
       icon: "assets/wanted/pin4.jpg", photo: "assets/wanted/bushnel.jpg",
@@ -70,7 +70,7 @@ window.SITE = {
       icon: "assets/wanted/pin5.jpg", photo: "assets/wanted/crimson.jpg",
       info: { Age: "17 Years", Status: "DOXED & RAPED", "Last seen": "Allegedly sighted at a showing of The Amazing Digital Circus shouting about yuri"},
       charges: ["Acts of Zoophilia", "Acts of plush rape", "Acts of groomings","Furfaggotry Class 4", "Goonerism class 4"],
-      bio: "Besides being a faggot, Crimson is known for being a PvZ sperg and often having many clashes with antifurry chuds and other furfags that dont like xim on der 'tube. This would cause a random ESL russian called Anton to dox him with the help of soyteens" 
+      bio: "Besides being a faggot, Crimson is known for being a PvZ sperg and often having many clashes with antifurry chuds and other furfags that dont like xim on der 'tube. This would cause a random ESL russian called Anton to dox him with the help of soyteens." 
     },
   ]
 };
