@@ -58,7 +58,7 @@ window.SITE = {
       icon: "assets/wanted/pin3.jpg", photo: "assets/wanted/trollvision.jpg",
       info: { Age: "Unc", Status: "AT LARGE", "Last seen": "Buying a femboy outfit under a bridge in the town of szcyzjkjchzywojewksc"},
       charges: ["Femboyism class 2", "ESL penalty", "gay fail larp"],
-      bio: "Polish anti-furry who got raped and sissified by an unknown assilant who used a sort of hydraulic machine, is now addicted to crack and lives under a bridge" 
+      bio: "Polish anti-furry who got raped and sissified by an unknown assilant who used a sort of hydraulic machine, is now addicted to crack, is depressed, and lives under a bridge, also uses mulvad VPN behind 17 proxies or something to avoid getting 'oxed because hes a paranoid freak" 
     },
     { name: "Bushnell", alias: "@killerbushnell", lat: 30, lon: 70, opsec: 70,
       icon: "assets/wanted/pin4.jpg", photo: "assets/wanted/bushnel.jpg",
